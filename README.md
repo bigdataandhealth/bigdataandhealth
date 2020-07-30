@@ -1,4 +1,10 @@
-# datahealth
+# Big Data & Health
+
+![Image Cover](static/cover.jpg)
+
+## Made with:
+ - Nuxtjs Content
+ - Tailwindcss
 
 ## Build Setup
 
