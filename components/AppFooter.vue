@@ -25,9 +25,10 @@
           href="https://github.com/bigdataandhealth/site/tree/master/content"
           class="text-gray-700 hover:text-gray-800 m-2 tooltip"
           target="_blank"
-
         >
-          <span class='tooltip-text bg-white p-3 -my-8 -ml-20 rounded shadow'>Edit on GitHub</span>
+          <span class="tooltip-text bg-white p-3 -my-8 -ml-20 rounded shadow"
+            >Edit on GitHub</span
+          >
           <svg style="width: 24px; height: 24px;" viewBox="0 0 24 24">
             <path
               fill="currentColor"
@@ -41,7 +42,7 @@
 </template>
 <style>
 .tooltip .tooltip-text {
-  opacity:0;
+  opacity: 0;
   text-align: center;
   padding: 2px 6px;
   position: absolute;
@@ -49,6 +50,6 @@
   transition: opacity 300ms ease;
 }
 .tooltip:hover .tooltip-text {
-  opacity:1;
+  opacity: 1;
 }
 </style>
