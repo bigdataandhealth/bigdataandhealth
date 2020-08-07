@@ -22,7 +22,7 @@
 
       <div class="flex">
         <a
-          href="https://github.com/bigdataandhealth/site/tree/master/content"
+          href="https://github.com/bigdataandhealth/bigdataandhealth.github.io/tree/master/content"
           class="text-gray-700 hover:text-gray-800 m-2 tooltip"
           target="_blank"
         >
