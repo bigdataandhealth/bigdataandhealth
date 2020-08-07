@@ -1,20 +1,31 @@
 <template>
   <div>
-    <Nuxt />
+    <app-navigation />
+    <div class="container mx-auto mt-24 md:mt-16 px-4 mt-12 pb-10">
+      <div class="pt-2 sm:pt-8">
+        <Nuxt />
+      </div>
+    </div>
+    <bottom-footer />
   </div>
 </template>
+<script>
+import BottomFooter from '@/components/AppFooter'
 
+export default {
+  components: { BottomFooter },
+  head: {
+    bodyAttrs: {
+      class:
+        'text-gray-800 bg-gray-100 font-sans leading-normal tracking-normal',
+    },
+  },
+}
+</script>
 <style>
 html {
-  font-family:
-    'Source Sans Pro',
-    -apple-system,
-    BlinkMacSystemFont,
-    'Segoe UI',
-    Roboto,
-    'Helvetica Neue',
-    Arial,
-    sans-serif;
+  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, 'Helvetica Neue', Arial, sans-serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;

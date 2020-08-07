@@ -2,10 +2,11 @@
 # Yaml variables
 title: Topic title
 image: https://images.unsplash.com/photo-1551431009-a802eeec77b1?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&h=400&q=80
+contactName: Jane
+contactEmail: email@email.com
 creditsImage: 'Unsplash'
-contact:
-  name: Prof. Jane
-  email: email@email.com
+documentLink: https://doc.new
+documentTextLink: Open Document
 ---
 
 ## Topic subheading 

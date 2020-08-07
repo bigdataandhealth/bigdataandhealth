@@ -26,10 +26,11 @@ export default {
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
+
   /*
    ** Global CSS
    */
-  css: [],
+  css: ['~/assets/main.scss'],
   /*
    ** Plugins to load before mounting the App
    ** https://nuxtjs.org/guide/plugins
@@ -71,4 +72,7 @@ export default {
    ** See https://nuxtjs.org/api/configuration-build/
    */
   build: {},
+    // fallback: '404.html', // for Netlify
+  generate: {
+  },
 }
