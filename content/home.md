@@ -1,5 +1,7 @@
 # Welcome to Big Data and Health topic bazaar
-The purpose of this page is to stimulate exchange of ideas between participants in projects under the Big Data and Health call. The most interesting topics will lead to the creation of cross project collaborative working groups.
+The purpose of this page is to stimulate exchange of ideas between participants in projects under the Data2Person and BigData&Health projects. All project participants are invited to discuss in this forum their ideas on topics related to data/infrastructure aspects of these projects. These could lead to create cross project collaborative working groups.
+
+The bazaar will remain open for contributions until **17th October 2020**.
 
 ## Interested in a topic?
 If you are interested in any of the topics proposed, you can find out more about them by clicking on the title. Each topic has an interactive document where you can leave comments and discuss your ideas with others.
