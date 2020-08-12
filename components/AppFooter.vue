@@ -18,6 +18,13 @@
         >
           <img src="/logo_escience.png" width="110" />
         </a>
+        <a
+          target="_blank"
+          href="https://www.hartstichting.nl//"
+          class="opacity-75 hover:opacity-100"
+        >
+          <img src="/logo_hartstichting.png" width="110" />
+        </a>
       </div>
 
       <div class="flex">
