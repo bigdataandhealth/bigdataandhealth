@@ -7,23 +7,30 @@
         <a
           target="_blank"
           href="https://www.nwo.nl/"
-          class="opacity-75 hover:opacity-100"
+          class="opacity-75 hover:opacity-100 mr-4"
         >
-          <img class="mr-3" src="/logo_nwo.png" width="50" />
+          <img src="/logo_nwo.png" width="50" />
         </a>
         <a
           target="_blank"
           href="https://www.esciencecenter.nl/"
-          class="opacity-75 hover:opacity-100"
+          class="opacity-75 hover:opacity-100 mr-4"
         >
           <img src="/logo_escience.png" width="110" />
         </a>
         <a
           target="_blank"
           href="https://www.hartstichting.nl//"
-          class="opacity-75 hover:opacity-100"
+          class="opacity-75 hover:opacity-100 mr-4"
         >
-          <img src="/logo_hartstichting.png" width="110" />
+          <img src="/logo_hartstichting.png" width="100" />
+        </a>
+        <a
+          target="_blank"
+          href="https://commit2data.nl/"
+          class="opacity-75 hover:opacity-100 mr-4"
+        >
+          <img src="/logo_commit_2_data.png" width="70" />
         </a>
       </div>
 
