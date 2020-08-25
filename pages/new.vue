@@ -6,7 +6,7 @@
 export default {
   transition: 'intro',
   async fetch() {
-    this.content = await this.$content('about').fetch()
+    this.content = await this.$content('new').fetch()
   },
   data: () => ({ content: {} }),
 }
