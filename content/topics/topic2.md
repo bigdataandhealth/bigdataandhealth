@@ -11,4 +11,4 @@ documentTextLink: Discuss topic
 
 ## Topic description
 
-The development of eHealth applications that motivate users to change their lifestyles comprises a number of challenges: how to make it appealing for users, how to motivate them to change their lifestyle and more importantly how to achieve long term adherence to lifestyle changes. We would like to open a discussion with other consortia that have expertise in this area.
+The development of eHealth applications that motivate users to change their lifestyles comprises a number of challenges: **how to personalise it**, how to make it appealing for users, how to motivate them to change their lifestyle and more importantly how to achieve long term adherence to lifestyle changes. We would like to open a discussion with other consortia that have expertise in this area
