@@ -1,7 +1,7 @@
 ---
 # Yaml variables
 title: Patient-centered Data Collection for European data science research
-image: https://unsplash.com/photos/fQDn3X4BAl0/download?force=true&w=640
+image: https://images.unsplash.com/photo-1596354762473-6706bf6d5626?auto=format&fit=crop&w=640
 contactName: Pieter Van Gorp
 contactEmail: p.m.e.v.gorp@tue.nl
 creditsImage: 'Unsplash'
